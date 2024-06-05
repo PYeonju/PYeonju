@@ -7,4 +7,11 @@
 
 <h3 align="center">📢Info</h3>
 
-[![YeonJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYeonju)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYeonju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=PYeonju" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYeonju&layout=compact" />
+  </a>
+</div>
