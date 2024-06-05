@@ -7,14 +7,6 @@
   </a>
 </p>
 
-<h3 align="center">✒️Tech Stack✒️</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/MSSQL-4479A1?style=flat-square&logo=CC2927&logoColor=white"/>
-  </a>
-</p>
-
 <h3 align="center">📢Info</h3>
 
 <p align="center">
