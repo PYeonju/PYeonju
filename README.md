@@ -8,4 +8,4 @@
 
 
 <h3 align="center">📢Info</h3>
-[YeonJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYeonju&show_icons=true&theme=radical)
+![YeonJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYeonju&show_icons=true)
