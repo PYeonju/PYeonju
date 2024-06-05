@@ -3,7 +3,7 @@
 <h3 align="center">☁️Contact☁️</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/pometeus98@gmail.com-EA4335?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/pometeus98@gmail.com-EA4335?style=flat-square&logo=EA4335&logoColor=white"/>
   </a>
 </p>
 
