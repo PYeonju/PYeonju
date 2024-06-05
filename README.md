@@ -2,7 +2,10 @@
 
 <h3 align="center">☁️Contact☁️</h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/pometeus98@gmail.com-EA4335?style=flat-square&logo=Android&logoColor=white"/>
+  </a>
+</p>
 
 <h3 align="center">✒️Tech Stack✒️</h3>
 
