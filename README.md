@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:pometeus98@gmail.com">
-   [ <img
-      src="https://img.shields.io/badge/pomtetus98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   <img
+      src="https://img.shields.io/badge/pomtetus98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
