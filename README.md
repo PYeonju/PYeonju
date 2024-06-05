@@ -7,10 +7,15 @@
 
 <h3 align="center">📢Info</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=PYeonju" width="400" height="auto" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYeonju&layout=compact" width="400" height="auto" />
-</a>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=PYeonju" />
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYeonju&layout=compact" />
+    </a>
+  </div>
+</div>
