@@ -13,7 +13,7 @@
 <h3 align="center">📢Info</h3>
 
 <p align="center">
-  <a href="https://github.com/PYeonju/github-readme-stats">
+  <a href="https://github.com/PYeonju?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=PYeonju&theme=shadow_green&show_icons=true" />
   </a>
 </p>
