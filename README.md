@@ -2,7 +2,8 @@
 
 <h3 align="center">☁️Contact☁️</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pometeus98@gmail.com)](mailto:pometeus98@gmail.com)
+<h3 align="center">
+[![Gmail Badge](https://img.shields.io/badge/Gmail : pometeus98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pometeus98@gmail.com)](mailto:pometeus98@gmail.com)
 
 
 <h3 align="center">📢Info</h3>
