@@ -7,7 +7,7 @@
 
 <h3 align="center">📢Info</h3>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;">
   <div style="flex: 1;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=PYeonju" />
