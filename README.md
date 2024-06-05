@@ -7,13 +7,11 @@
 
 <h3 align="center">📢Info</h3>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=PYeonju" />
   </a>
-</div>
-
-
+</p>
 
 
 
