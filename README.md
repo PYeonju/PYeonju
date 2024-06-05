@@ -5,7 +5,7 @@
 <h3 align="center">
   
 [![Gmail Badge](https://img.shields.io/badge/pometeus98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pometeus98@gmail.com)](mailto:pometeus98@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/foeo@naver.com-d14836?style=flat-square&logo=Naver&logoColor=00C3FF&link=mailto:foeo@naver.com)](mailto:foeo@naver.com)
+[![Naver Badge](https://img.shields.io/badge/foeo@naver.com-00C3FF?style=flat-square&logo=Naver&logoColor=Write&link=mailto:foeo@naver.com)](mailto:foeo@naver.com)
 
 <h3 align="center">📢Info</h3>
 
