@@ -4,6 +4,8 @@
 
 <h3 align="center">
   
+<a href="PYeonju.github.io"><img src="https://img.shields.io/badge/GitBlog-#181717?style=flat-square&logo=GitBlog&logoColor=white"/></a>
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 [![Gmail Badge](https://img.shields.io/badge/pometeus98@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pometeus98@gmail.com)](mailto:pometeus98@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/foeo@naver.com-2DB400?style=flat-square&logo=Naver&logoColor=Write&link=mailto:foeo@naver.com)](mailto:foeo@naver.com)
 
